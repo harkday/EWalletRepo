@@ -1,0 +1,34 @@
+version: '3.4'
+ 
+networks:
+  ewallet-dev:
+    driver: bridge 
+ 
+services:
+  ewallet:
+    image: ewallet:latest
+    depends_on:
+      - "postgres"
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:80"     
+    environment:
+      DB_CONNECTION_STRING: "host=postgres;port=5432;database=ewallet;username=postgres;password=@merlino07"
+    networks:
+      - ewallet-dev  
+  
+  postgres_image:
+    image: postgres:latest
+    ports:
+      - "5432"
+    restart: always
+    environment:
+      POSTGRES_USER: "postgres"
+      POSTGRES_PASSWORD: "@merlino07"
+      POSTGRES_DB: "ewallet"
+    networks:
+      - ewallet-dev
+volumes:
+  db_volume:
