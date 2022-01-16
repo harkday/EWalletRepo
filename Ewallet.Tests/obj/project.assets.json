@@ -9761,11 +9761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\week-9-Merlin4190\\Ewallet.Tests\\Ewallet.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\EWalletFolder\\Ewallet.Tests\\Ewallet.Tests.csproj",
       "projectName": "Ewallet.Tests",
-      "projectPath": "C:\\Users\\hp\\Desktop\\week-9-Merlin4190\\Ewallet.Tests\\Ewallet.Tests.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\EWalletFolder\\Ewallet.Tests\\Ewallet.Tests.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\week-9-Merlin4190\\Ewallet.Tests\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\EWalletFolder\\Ewallet.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9782,8 +9782,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\hp\\Desktop\\week-9-Merlin4190\\Ewallet\\Ewallet.csproj": {
-              "projectPath": "C:\\Users\\hp\\Desktop\\week-9-Merlin4190\\Ewallet\\Ewallet.csproj"
+            "C:\\Users\\hp\\Desktop\\EWalletFolder\\Ewallet\\Ewallet.csproj": {
+              "projectPath": "C:\\Users\\hp\\Desktop\\EWalletFolder\\Ewallet\\Ewallet.csproj"
             }
           }
         }

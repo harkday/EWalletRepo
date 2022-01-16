@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\week-9-Merlin4190\\Ewallet\\Ewallet.csproj": {}
+    "C:\\Users\\hp\\Desktop\\EWalletFolder\\Ewallet\\Ewallet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\week-9-Merlin4190\\Ewallet\\Ewallet.csproj": {
+    "C:\\Users\\hp\\Desktop\\EWalletFolder\\Ewallet\\Ewallet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\week-9-Merlin4190\\Ewallet\\Ewallet.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\EWalletFolder\\Ewallet\\Ewallet.csproj",
         "projectName": "Ewallet",
-        "projectPath": "C:\\Users\\hp\\Desktop\\week-9-Merlin4190\\Ewallet\\Ewallet.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\EWalletFolder\\Ewallet\\Ewallet.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\week-9-Merlin4190\\Ewallet\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\EWalletFolder\\Ewallet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
